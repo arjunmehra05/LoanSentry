@@ -207,11 +207,3 @@ streamlit run app.py
 
 This project is proprietary. All rights reserved.  
 © 2026 Arjun Mehra
-
----
-
-## 👤 Author
-
-**Arjun Mehra**  
-B.Tech AI & ML  
-[github.com/arjunmehra05](https://github.com/arjunmehra05) · [linkedin.com/in/arjunmehra5](https://www.linkedin.com/in/arjunmehra5/)
