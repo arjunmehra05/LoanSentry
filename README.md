@@ -206,7 +206,7 @@ streamlit run app.py
 ## 📄 License
 
 This project is proprietary. All rights reserved.  
-© 2025 Arjun Mehra
+© 2026 Arjun Mehra
 
 ---
 
