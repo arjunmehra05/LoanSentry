@@ -1,0 +1,8 @@
+Model,Accuracy,F1 Score,ROC-AUC
+XGBoost (t=0.3),0.7573,0.436,0.7328
+Weighted Voting Ensemble,0.6762,0.4422,0.7231
+Soft Voting Ensemble,0.6422,0.4337,0.7179
+Neural Network (t=0.25),0.6438,0.4374,0.7169
+Random Forest,0.7698,0.3827,0.7157
+Stacking Ensemble,0.6876,0.4321,0.7053
+Logistic Regression,0.6949,0.3838,0.6716

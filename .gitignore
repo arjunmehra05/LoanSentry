@@ -6,7 +6,3 @@ logs/
 feedback_log.csv
 .DS_Store
 *.log
-models/*
-!models/README.md
-rag/*
-!rag/README.md
